@@ -124,16 +124,16 @@ interfaces the product part and the equipment part of the framework. The structu
 bolsters equipment interface blend. This report shows how the equipment and programming
 interfaces can be executed in implanted PC framework.
 ## Hardware Specifications
-• RAM: 3GB or higher(+ I GB for emulator)
-• Disk Space: 2GB or higher,4GB Recommended
-• Screen Resolution: 1 280 x 800 or higher
-• Smart telephones and workstations
+- RAM: 3GB or higher(+ I GB for emulator)
+- Disk Space: 2GB or higher,4GB Recommended
+- Screen Resolution: 1 280 x 800 or higher
+- Smart telephones and workstations
 ## SOFTWARE INTERFACE
 #### Software interface additionally assumes a significant job in planning a site. The product utilized really taking shape of this site is explicitly intended to help mistake free coding and it is agreeable to the coder to make the task.
 ## Software Specifications
-• Tools: System with 8 GB Ram and i5 processor.
-• Software: Spyder, Python
-• Numpy: 1.14.0
-• Pandas: 0.2 I.0
-• Matplotlib: 2.1.0
-• Seaborn: 0.8.I
+- Tools: System with 8 GB Ram and i5 processor.
+- Software: Spyder, Python
+- Numpy: 1.14.0
+- Pandas: 0.2 I.0
+- Matplotlib: 2.1.0
+- Seaborn: 0.8.I
