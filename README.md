@@ -54,7 +54,7 @@ that transaction was genuine or fraudulent. The feedback is provided by the inve
 automated system which is used to train and update the algorithm to improve the fraud detection
 performance over time.
 
-### In this project we use misuse method and Random Forest Algorithm to train the genuine and scam
+### In this project we use some method and Random Forest Algorithm to train the genuine and scam
 behaviour characteristics. It is a classification algorithm based on the major probability of all base classifier. Its basically as supervised machine algorithm. Our main aim is towards training this algorithm over a classification based problem. Our project includes few technical steps –
 1) Preparation of data
 2) Training of the model
